@@ -778,6 +778,25 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.tc-grey {
+    color: rgb(128, 128, 128);
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 25px;
+}
+.tc-grey span:first-child{
+    display: block;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
 .btn-atomic-tangerine {
     background: #97380C;
     color: #FFFFFF!important;
